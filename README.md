@@ -44,18 +44,18 @@
 #### `🛠️ Featured Languages & Tools`
 
   <p align="left">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,cs,dotnet,postman,swagger,sqlserver,redis,git,html,css,js,docker"/>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,python,dotnet,postman,swagger,sqlserver,redis,git,html,css,js,docker"/>
   </p>
 
 #### `🏆 GitHub Trophies`
   <p align="left">
   
-  ![trophy](https://github-profile-trophy-ahmed.vercel.app/?username=A-Hemeda&theme=onestar&no-bg=true&no-frame=true&row=1&column=7)
+  ![trophy](https://github-profile-trophy-ahmed.vercel.app/?username=abdalla-abuelhadid&theme=onestar&no-bg=true&no-frame=true&row=1&column=7)
   </div>
 <br>
 
   <p align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=a-hemeda&layout=compact&langs_count=6&theme=highcontrast" height="125"/> &nbsp;
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdalla-abuelhadid&layout=compact&langs_count=6&theme=highcontrast" height="125"/> &nbsp;
     <img src="https://streak-stats.demolab.com/?user=a-hemeda&theme=highcontrast" height="125"/>
   </p>
 
